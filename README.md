@@ -1,5 +1,6 @@
 # CNPM_DangKiDeTai
-Project Cuối kì môn học Công nghệ Phần Mềm
+**Project Cuối kì môn học Công nghệ Phần Mềm**
+
 Project được thực hiện với 3 thành viên:
 
 Nguyễn Duy Đăng - 20110632
